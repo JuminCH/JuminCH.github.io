@@ -1,0 +1,138 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://juminch.github.io" resolutions="1x" timestamp="1578331756991">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="illustration.css" crc="3961550360" ref="illustration"/>
+    <file name="work.css" crc="53315118" ref="work"/>
+    <file name="photography.css" crc="4217545260" ref="photography"/>
+    <file name="index.css" crc="302771027" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:photography:illustration"/>
+    <file name="museutils.js" crc="4216313831" ref="index:work:photography:illustration"/>
+    <file name="whatinput.js" crc="86476730" ref="index:work:photography:illustration"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:work:photography:illustration"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:work:photography:illustration"/>
+    <file name="require.js" crc="3951022091" ref="index:work:photography:illustration"/>
+  </folder>
+  <folder name="images">
+    <file name="img_1270-crop-u139.jpg" crc="265597649" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u160-4.png" crc="345451745" ref="index"/>
+    <file name="u163-4.png" crc="4281703054" ref="index"/>
+    <file name="u172-4.png" crc="3953777009" ref="index"/>
+    <file name="u175-4.png" crc="3896533002" ref="index"/>
+    <file name="u120-4.png" crc="4283518310" ref="index"/>
+    <file name="u157-6.png" crc="4229289597" ref="index"/>
+    <file name="u116-4.png" crc="4013146692" ref="index"/>
+    <file name="u123-4.png" crc="301320979" ref="index"/>
+    <file name="dsc01865.jpg" crc="364921145" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="dsc01867.jpg" crc="452603060" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="dsc01868.jpg" crc="3957474042" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="img_0722.jpg" crc="3760328145" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="img_0723.jpg" crc="334524905" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="u1456-4-a.png" crc="4013146692" ref="work"/>
+    <file name="img_0737.jpg" crc="161165104" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="img_0733.jpg" crc="299623041" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="img_0741.jpg" crc="4094340974" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="u1214-4.png" crc="3894570166" ref="photography"/>
+    <file name="img_1266.jpg" crc="235169861" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_1271-crop-u1222.jpg" crc="478128614" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_1270.jpg" crc="3807136233" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="u1224-4.png" crc="4272828342" ref="photography"/>
+    <file name="20191019-dsc_0268.jpg" crc="4104542163" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="20191019-dsc_0382.jpg" crc="4023396544" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="20191019-dsc_0356.jpg" crc="334114380" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="20191019-dsc_0349.jpg" crc="3827904748" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="20191019-dsc_0406.jpg" crc="4110591789" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="20191015-dsc_0060.jpg" crc="4030846113" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="u1215-4-a.png" crc="4283518310" ref="photography"/>
+    <file name="img_1256.jpg" crc="232787912" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="20191019-dsc_0385.jpg" crc="3832313848" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="20191017-dsc_0212.jpg" crc="3927496507" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="20191019-dsc_0389.jpg" crc="3996742035" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="u753-4-a.png" crc="301320979" ref="illustration"/>
+    <file name="練習.jpg" crc="3985047469" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="doggy.jpg" crc="3914044869" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="鸚鵡.png" crc="388184910" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hug2.jpg" crc="206932163" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="hug4.jpg" crc="4010772381" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="愛愛.jpg" crc="4281034292" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="橫山味之家.jpg" crc="4105271911" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="好吃no.jpg" crc="3949000327" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="未命名-1_工作區域 1.png" crc="4184296361" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="u735-6.png" crc="3990710035" ref="illustration"/>
+    <file name="macalona-01.jpg" crc="40829850" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="陳柔潣_主視覺_01.jpg" crc="425748680" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="18390859" seo="true" mt="1578328404143" redirect="true"/>
+  <file name="work.html" crc="3759754192" seo="true" mt="1578327895557" redirect="true"/>
+  <file name="photography.html" crc="201720863" seo="true" mt="1578326766367" redirect="true"/>
+  <file name="illustration.html" crc="3934482774" seo="true" mt="1578328075822" redirect="true"/>
+</manifest>
